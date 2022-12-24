@@ -7,7 +7,7 @@ I thought it would be cool to have an application for generating random numbers 
 ### Highlights:
 
 - [Variable names in German](https://github.com/vlmaier/pick-a-number/blob/main/app/src/main/java/com/vladas/pickanumber/MainActivity.java#L59)
-- [Integer Overflow](https://github.com/vlmaier/pick-a-number/blob/main/app/src/main/java/com/vladas/pickanumber/MainActivity.java#L59)
+- [Integer Overflow](https://github.com/vlmaier/pick-a-number/blob/main/app/src/main/java/com/vladas/pickanumber/MainActivity.java#L50)
 
 ## Layout Showcase
 
