@@ -1,7 +1,4 @@
 # Pick A Number
-Android application which allows you to generate a random number within a given interval.
-
-# Tap For Sound
 
 I have developed this Android application back in 2014. I had no Git experience yet, so unfortunately no commit history is available. However, you can look at the code I wrote as an undergraduate.
 
