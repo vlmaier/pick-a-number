@@ -1,20 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 32
-    buildToolsVersion "19.0.1"
+    compileSdkVersion 33
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 32
+        targetSdkVersion 33
         versionCode 1
         versionName "0.1.2"
     }
-    buildTypes {
-        release {
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-        }
-    }
+    namespace 'com.vladas.pickanumber'
 }
 
 dependencies {
