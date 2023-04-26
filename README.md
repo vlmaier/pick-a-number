@@ -1,3 +1,5 @@
+![](https://github.com/vlmaier/pick-a-number/actions/workflows/build.yml/badge.svg)
+
 # Pick A Number
 
 I have developed this Android application back in 2014. I had no Git experience yet, so unfortunately no commit history is available. However, you can look at the code I wrote as an undergraduate.
